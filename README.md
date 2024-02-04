@@ -48,6 +48,9 @@ Logistic Regression Confusion Matrix	Logistic Regression Classification Report
 
 LR Confusion Matrix	LR Classification Report
 
+![image](https://github.com/ShubhangiBidkar/credit-risk-classification/assets/38162670/6587afe6-6977-41ea-9f82-94de5c298fe6)
+
+
 
 Summary
 I recommend using the scikit-learn Logistic Regression model with lbfgs solver as a filter for how to spend time evaluating loan applications. If a future loan is predicted to be "healthy", little time should be spent digging into further detail prior to approving the loan because the likelihood that it will be healthy is 99+%. However, if the model predicts the loan to be "high-risk" and the potential benefit of that loan to the lender is relatively high, more time should be spent evaluating that loan against additional features because 15% of the test loans predicted to be "high-risk" were actually "healthy".
