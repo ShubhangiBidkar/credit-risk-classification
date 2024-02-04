@@ -43,6 +43,9 @@ Determine if is it possible to predict loan risk given the following information
         
 Logistic Regression Confusion Matrix	Logistic Regression Classification Report
 
+![image](https://github.com/ShubhangiBidkar/credit-risk-classification/assets/38162670/046305ff-de3c-4265-8894-774027405a2a)
+
+
 LR Confusion Matrix	LR Classification Report
 
 
